@@ -1,3 +1,5 @@
+package DataTypes
+
 fun main(args: Array<String>) {
     var name: String
     name = "Kevin"
