@@ -1,4 +1,4 @@
-package PrimaryConstructor
+package Constructor
 
 fun main(args: Array<String>) {
 
